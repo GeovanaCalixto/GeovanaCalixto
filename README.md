@@ -16,30 +16,19 @@
  Olá! Me chamo Geovana, tenho 23 anos e sou uma profissional de marketing com foco em inovação, propósito e impacto. Sou apaixonada pelo universo da Web 3.0 e pelas possibilidades que ele oferece de descentralização, 
  conexão e transformação digital. Estou aqui no GitHub para aprender, praticar e construir projetos que unam tecnologia, estratégia e significado.
  
-👩‍💻"Sempre com a intenção de gerar valor real para as pessoas e para o futuro".👩‍💻
+👩‍💻"Sempre com a intenção de gerar valor real para as pessoas e para o futuro".
 
 <br> <br>
 
 
-<a href="https://github.com/GeovanaCalixto/github-readme-stats">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeovanaCalixto&layout=compact&title_color=D77B8A&text_color=D77B8A&bg_color=3D3A3A&hide_border=true" />
-</a>
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GeovanaCalixto&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2&custom_title=Linguagens" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GeovanaCalixto&radius=16&theme=minimal&area=true&order=5&bg_color=ffffff&color=D77B8A&line=D77B8A&title_color=D77B8A&point=D77B8A&area_color=D77B8A&hide_border=true&hide_title=false&custom_title=Gr%C3%A1fico%20de%20contribui%C3%A7%C3%B5es" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 
 
 
 
-
-#### Top Repositories
-
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
