@@ -21,7 +21,7 @@
 
 
 
-<h3 align= "center" >Github Analystics</h3>
+<h3 align= "center" >Github Analytics</h3>
 <p align="center"><img src="https://ghchart.rshah.org/726A8D/GeovanaCalixto" alt="Gráfico de contribuições no GitHub"></p>
 
 
