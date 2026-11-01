@@ -24,9 +24,5 @@
 
 
 <h3 align= "center" >Notes</h3>
-<p align="center"><img src="https://img.shields.io/badge/%20-Espa%C3%A7o%20para%20suas%20frases%20e%20anota%C3%A7%C3%B5es-FBF6F6?labelColor=D77B8A&style=flat" height="100" alt="Espaço para suas frases e anotações"></p>
-
-
-
-
+<p align="center"><img src="./notes.svg" width="600" alt="Espaço para frases e anotações"></p>
 
